@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DlibGrails.iml" filepath="$PROJECT_DIR$/.idea/modules/DlibGrails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DlibGrails_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DlibGrails_integrationTest.iml" group="DlibGrails" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DlibGrails_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DlibGrails_main.iml" group="DlibGrails" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DlibGrails_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DlibGrails_test.iml" group="DlibGrails" />
+    </modules>
+  </component>
+</project>
